@@ -91,3 +91,5 @@ scene.scaleMode = .aspectFit
 let view = SKView(frame: CGRect(x: 0, y: 0, width: 960, height: 540))
 view.presentScene(scene)
 PlaygroundPage.current.liveView = view
+
+// I made some changes
